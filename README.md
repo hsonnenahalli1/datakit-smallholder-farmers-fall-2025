@@ -10,7 +10,9 @@ Producers Direct acquired all data, technologies, and data science initiatives f
 - Nearly 200,000 farming tips shared on the platform
 - Quality ratings for approximately 20% of the responses
 - Basic demographic and farming information on platform users
+
 This rich dataset could yield valuable insights to support on-farm management of smallholder farmers and help improve farm productivity and increase household incomes. 
+
 However, Producers Direct needs analytical expertise to extract meaningful patterns and actionable information from this data. The organization is interested in exploring several key areas as noted below.
 
 # Submitting your work 
