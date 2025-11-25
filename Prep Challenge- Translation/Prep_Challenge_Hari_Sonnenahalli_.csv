@@ -1,0 +1,25 @@
+column,r_class,clickhouse_hint,sample_rows,na_pct,unique_in_sample,example_value
+question_id,integer,Int32/UInt32,200000,0,64235,3849056
+question_user_id,integer,Int32/UInt32,200000,0,28105,519124
+question_language,character,String,200000,0,4,nyn
+question_content,character,String,200000,0,61678,E ABA WEFARM OFFICES ZABO NIZISHANGWA NKAHI?
+question_topic,character,String,200000,8.23,137,cattle
+question_sent,POSIXct,DateTime,200000,0,62108,11/22/2017 12:25
+response_id,integer,Int32/UInt32,200000,0,153710,20691011
+response_user_id,integer,Int32/UInt32,200000,0,58332,200868
+response_language,character,String,200000,0,4,nyn
+response_content,character,String,200000,0,151043,E!23 Omubazi Ni Dudu Cipa'
+response_topic,character,String,200000,62.42,142,tomato
+response_sent,POSIXct,DateTime,200000,0,146400,54:06.2
+question_user_type,character,String,200000,0,1,farmer
+question_user_status,character,String,200000,0,4,live
+question_user_country_code,character,String,200000,0,4,ug
+question_user_gender,character,String,200000,89.92,3,male
+question_user_dob,Date,Date,200000,86.83,3239,4/28/1992
+question_user_created_at,POSIXct,DateTime,200000,0,26222,11/18/2017 13:09
+response_user_type,character,String,200000,0,1,farmer
+response_user_status,character,String,200000,0,4,live
+response_user_country_code,character,String,200000,0,3,ug
+response_user_gender,character,String,200000,83.93,3,female
+response_user_dob,Date,Date,200000,79.54,7851,9/6/1985
+response_user_created_at,POSIXct,DateTime,200000,0,54854,5/9/2017 9:19
